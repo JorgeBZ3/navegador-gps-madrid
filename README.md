@@ -95,11 +95,6 @@ Ejemplo de salida:
 
 Python · NetworkX · OSMnx · pandas · Levenshtein · matplotlib
 
-## Autores
-
-**Jorge Beltrán Zamora** y Lorenzo Redolfi
-[LinkedIn](https://www.linkedin.com/in/tu-usuario) · [GitHub](https://github.com/tu-usuario)
-
 ## Datos
 
 Callejero de datos abiertos del Ayuntamiento de Madrid (licencia CC BY 4.0) y red viaria de © OpenStreetMap contributors.
