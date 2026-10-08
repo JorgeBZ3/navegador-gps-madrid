@@ -54,7 +54,7 @@ En esa página pulsa el botón de descarga del recurso, renombra el archivo a `d
 **5. Ejecutar `gps.py`**
 
 ```bash
-cd src   # TODO: ajusta o elimina esta línea según dónde esté gps.py
+cd src   
 python gps.py
 ```
 
