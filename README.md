@@ -22,7 +22,7 @@ Requisitos: **Python 3.12 o superior** y conexión a internet.
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/JorgeBZ3/navegador-gps-madrid.git
+git clone https://github.com/JorgeBZ3/navegador-gps-madrid.git o descárgalo con el botón Code → Download ZIP y descomprímelo
 cd navegador-gps-madrid
 ```
 
